@@ -1,0 +1,63 @@
+.login-page, .login-page * {
+    box-sizing: border-box;
+    }
+.login-page {
+    background: #000000;
+    padding: 127px 0px 127px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    }
+
+ .brand-logo {
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+    }
+
+ .image-18 {
+    align-self: stretch;
+    flex-shrink: 0;
+    height: 440px;
+    position: relative;
+    }
+
+ .extra-space {
+    flex-shrink: 0;
+    height: 61px;
+    position: relative;
+    overflow: hidden;
+    }
+
+ .login {
+    background: #1db954;
+    border-radius: 90px;
+    padding: 10px 60px 10px 60px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    position: relative;
+    text-decoration: none;
+    }
+
+ .login2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 37px;
+    font-weight: 400;
+    position: relative;
+    }
+
